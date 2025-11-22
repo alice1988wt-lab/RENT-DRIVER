@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Dacia Logan",
+    "price": "250 DH / day",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Renault Clio",
+    "price": "300 DH / day",
+    "available": false
+  },
+  {
+    "id": 3,
+    "name": "Toyota Corolla",
+    "price": "350 DH / day",
+    "available": true
+  }
+]
